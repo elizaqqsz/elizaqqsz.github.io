@@ -33,7 +33,7 @@ Es tevi mīlu, Krista ❤️`,
     {
         t: ' I have a question...',
         d: 'Will you stay with me for many more months? ❤️',
-        g: 'images/final.gif',
+        g: 'final.gif',
         b: `<button onclick="celebrate()">Always ❤️ (u have no choice again)</button>`
     }
 ];
